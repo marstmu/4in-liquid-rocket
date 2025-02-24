@@ -1,3 +1,3 @@
-# 4in-liquid-rocket
+# 4" Liquid Rocket CAD files
 
 ![alt text](images/Assem1.PNG)
