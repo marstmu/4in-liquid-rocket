@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-12092024-046404";"";
+"SUPPLIER_PART_NUMBER";"LPPT25-20-1000H";"";
+"TraceParts.PartTitle";"AchieVe pressure transmitter, 0 to 1000 psig range, +/- 1% accuracy, stainless steel sensing element, 4-20 mA analog output, 1/4in male NPT process connection, 9 to 32 VDC operating voltage, 4-pin M12 quick-disconnect.";"";
+"Part_Number_EShop_URL";"http://www.adcpn.com/pn/LPPT25-20-1000H";"";
+"SUPPLIER_NAME";"AutomationDirect";"";
+"DESIGN";"AchieVe pressure transmitter, 0 to 1000 psig range, +/- 1% accuracy, stainless steel sensing element, 4-20 mA analog output, 1/4in male NPT process connection, 9 to 32 VDC operating voltage, 4-pin M12 quick-disconnect.";"";
+"TraceParts.InstanceId";"90-12092024-04640478P2ST6ENTHNY6M228NL8S6AD";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
